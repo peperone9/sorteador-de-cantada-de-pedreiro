@@ -1,2 +1,6 @@
 # sorteador-de-cantada-de-pedreiro
-um programinha que sorteia cantadas de pedreiro
+Programa criado na linguagem C#
+
+Criado por: Pedro Cauan
+
+Objetivo: Tédio
